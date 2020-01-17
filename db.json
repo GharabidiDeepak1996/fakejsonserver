@@ -1,4 +1,4 @@
-[
+
   {
     "id": 1,
     "title": "json-server",
@@ -23,10 +23,4 @@
     "id": "5",
     "name": "sunil",
     "agr": "20"
-  },
-  {
-    "id": "6",
-    "name": "sunil",
-    "agr": "20"
   }
-]
